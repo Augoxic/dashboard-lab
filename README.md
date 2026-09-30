@@ -2,7 +2,7 @@
 
 Learning to build dashboards, in public. A working notebook that goes from fake data to the Microsoft PL-300 exam, with an interactive page for every lesson.
 
-**Live site:** https://YOUR-USERNAME.github.io/dashboard-lab (update after enabling GitHub Pages)
+**Live site:** https://augoxic.github.io/dashboard-lab
 
 All data in this project is synthetic: a mock trading execution desk with five venues. No real or confidential data is used anywhere.
 
