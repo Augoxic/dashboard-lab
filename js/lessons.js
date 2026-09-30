@@ -614,6 +614,7 @@ git push`],
 ];
 
 const LOG = [
+  ["2026-09-30", "Sep 30, 2026", "Published the site on GitHub Pages from the main branch and added the live link to the README."],
   ["2026-09-29", "Sep 29, 2026", "Rebuilt the site as a lesson library: 14 lessons across six tracks, each with its own page for learning steps, setup, work application and an interactive guide. Added data warehouse, Azure, Power BI Service, Power Platform, AI and PL-300 prep."],
   ["2026-09-29", "Sep 29, 2026", "Started the site. Picked a mock trading desk as the shared dataset and built the first dashboard entirely in the browser with Chart.js."]
 ];
